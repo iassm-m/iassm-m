@@ -187,6 +187,5 @@ Tenho interesse em unir minha base administrativa com a área de computação, b
 <br>
 <br>
 
-![Snake animation](https://github.com/iassm-m/iassm-m/blob/output/snake.svg)
 
 
