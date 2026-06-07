@@ -187,5 +187,9 @@ Tenho interesse em unir minha base administrativa com a área de computação, b
 <br>
 <br>
 
+## 🔥 Contribuições em sequência
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iassm-m&theme=radical&hide_border=true)
+
 
 
