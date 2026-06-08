@@ -162,9 +162,11 @@ Tenho interesse em unir minha base administrativa com a área de computação, b
 
 <br>
 
-## 📊 Estatísticas 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=iassm-m&show_icons=true&theme=dracula)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iassm-m&layout=compact&theme=dracula)
+## 📊 Estatísticas
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=iassm-m&show_icons=true&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iassm-m&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iassm-m&theme=radical&hide_border=true)
+
 <br>
 <br>
 
@@ -181,10 +183,6 @@ Tenho interesse em unir minha base administrativa com a área de computação, b
 <br>
 <br>
 <br>
-
-## 🔥 Contribuições em sequência
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iassm-m&theme=radical&hide_border=true)
 
 
 
