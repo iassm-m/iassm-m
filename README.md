@@ -163,9 +163,11 @@ Tenho interesse em unir minha base administrativa com a área de computação, b
 <br>
 
 ## 📊 Estatísticas
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=iassm-m&show_icons=true&theme=radical)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iassm-m&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iassm-m&theme=radical&hide_border=true)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=iassm-m&show_icons=true&theme=radical" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iassm-m&layout=compact&theme=radical" alt="Linguagens" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iassm-m&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
 
 <br>
 <br>
