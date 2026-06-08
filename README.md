@@ -101,22 +101,16 @@ Tenho interesse em unir minha base administrativa com a área de computação, b
 />
 <img
     align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"
-/>
-<img
-    align="left" 
     alt="C#" 
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000"
 />
+
 <br>
 <br>
+
 ### 📚 Em aprendizado
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -125,7 +119,8 @@ Tenho interesse em unir minha base administrativa com a área de computação, b
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 <br>
 
 ## 💼 Pacote Office
