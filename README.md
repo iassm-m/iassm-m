@@ -164,15 +164,12 @@ Tenho interesse em unir minha base administrativa com a área de computação, b
 
 ## 📊 Estatísticas
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=iassm-m&show_icons=true&theme=radical" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iassm-m&layout=compact&theme=radical" alt="Linguagens" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iassm-m&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
-
 <br>
 <br>
 
-## 📫Contato
+## 📫Contatos
 <a href="mailto:manniasmim@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
